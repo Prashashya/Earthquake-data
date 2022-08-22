@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T21:04:44.752Z,-22.0854,170.961,78,6.4,mww,114,41,3.296,0.58,us,us6000iav7,2022-08-16T16:39:26.040Z,"southeast of the Loyalty Islands",earthquake,7.89,1.876,0.039,62,reviewed,us,us
+2022-08-14T13:44:20.760Z,-32.7728,-179.0086,39.08,6.6,mww,63,67,5.26,0.63,us,us6000iasi,2022-08-16T16:45:20.040Z,"south of the Kermadec Islands",earthquake,10.52,4.452,0.059,28,reviewed,us,us
+2022-08-14T08:20:01.800Z,33.1554,92.8196,10,5.5,mww,99,30,12.895,0.82,us,us6000iaqi,2022-08-20T02:41:40.775Z,"199 km NNE of Nagqu, China",earthquake,2.07,1.821,0.089,12,reviewed,us,us
+2022-07-28T04:15:03.937Z,-21.9284,-70.3399,54,6.1,mww,138,25,0.558,0.89,us,us6000i636,2022-08-16T00:14:13.340Z,"23 km NW of Tocopilla, Chile",earthquake,3.42,1.822,0.036,73,reviewed,us,us
+2022-07-27T18:58:58.403Z,-22.1728,-68.5651,112,6.2,mww,115,31,0.731,1.13,us,us6000i5zi,2022-08-09T20:37:12.624Z,"48 km NE of Calama, Chile",earthquake,4.35,1.782,0.04,61,reviewed,us,us
+2022-07-27T00:43:28.268Z,17.5524,120.7955,46,7,mww,153,22,5.245,0.67,us,us6000i5rd,2022-08-17T05:43:28.962Z,"13 km NNE of Bantay, Philippines",earthquake,6.63,1.88,0.044,50,reviewed,us,us
+2022-07-23T16:09:06.660Z,26.9667,55.3786,11,5.6,mww,151,26,2.146,0.96,us,us7000hszl,2022-08-21T15:28:00.794Z,"67 km NE of Bandar-e Lengeh, Iran",earthquake,5.22,1.814,0.098,10,reviewed,us,us
+2022-07-23T16:07:47.118Z,26.8637,55.2135,9,5.4,mww,109,30,2.109,0.73,us,us7000hszk,2022-08-21T15:25:33.889Z,"47 km NE of Bandar-e Lengeh, Iran",earthquake,8.4,1.796,0.098,10,reviewed,us,us
